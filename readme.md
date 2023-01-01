@@ -28,3 +28,12 @@ URL do curso -> [JavaScript - Consumindo e Tratando Dados de uma API](https://cu
 * Identificar uma API.
 * Consumir dados de uma API através do método fetch.
 * Compreender o funcionamento das promises.
+
+***
+
+## 03 - Aprofundando em Promises &#x1F516;
+* Tratar promises a partir dos seus métodos.
+* Utilizar o método then para acessar o valor retornado do fetch API.
+* Converter dados em JSON através do método json().
+* Lidar com possíveis erros com o método catch.
+* Enviar respostas independente do retorno com o método finally.
