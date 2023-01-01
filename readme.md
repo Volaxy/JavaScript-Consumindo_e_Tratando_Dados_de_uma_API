@@ -37,3 +37,11 @@ URL do curso -> [JavaScript - Consumindo e Tratando Dados de uma API](https://cu
 * Converter dados em JSON através do método json().
 * Lidar com possíveis erros com o método catch.
 * Enviar respostas independente do retorno com o método finally.
+
+***
+
+## 04 - Criando Funções Assíncronas &#x1F516;
+* Construir funções assíncronas com async.
+* Criar requisições com await.
+* Tratar erros com try catch.
+* Implementar várias requisições simultaneamente com Promise All.
