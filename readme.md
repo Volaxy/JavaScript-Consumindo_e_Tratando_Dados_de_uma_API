@@ -45,3 +45,11 @@ URL do curso -> [JavaScript - Consumindo e Tratando Dados de uma API](https://cu
 * Criar requisições com await.
 * Tratar erros com try catch.
 * Implementar várias requisições simultaneamente com Promise All.
+
+***
+
+## 05 - Manipulando Formulários &#x1F516;
+* Selecionar elementos pelo seu id através do getElementById.
+* Incluir valores em elementos com a propriedade value.
+* Detectar interação do usuário com auxílio do addEventListener.
+* Inserir elementos HTML a partir do innerHTML.
